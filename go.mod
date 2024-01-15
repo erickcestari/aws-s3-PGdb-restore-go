@@ -1,4 +1,4 @@
-module sagep-backup
+module aws-s3-PGdb-restore-go
 
 go 1.21.3
 
